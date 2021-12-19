@@ -47,7 +47,8 @@ View all regions
 
 Search
 ![Search](server/public/images/screen%20shots/search1.png?raw=true)
-![Search](server/public/images/screen%20shots/search2.png?raw=true)
+![Search options](server/public/images/screen%20shots/search2.png?raw=true)
+![Search results](server/public/images/screen%20shots/search3.png?raw=true)
 
 House page(general user)
 ![House view general](server/public/images/screen%20shots/house%20view%20-%20general.png?raw=true)
