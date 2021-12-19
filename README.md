@@ -30,4 +30,4 @@ https://dbdiagram.io/d/60926e79b29a09603d1377d6
 
 ### Screenshots
 Login
-![Login screen](https://github.com/seegg/Safe-Houses/blob/main/server/public/images/screen%20shots/intro.png?raw=true)
+![Login screen](server/public/images/screen%20shots/intro.png?raw=true)
