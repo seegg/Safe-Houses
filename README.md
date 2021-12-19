@@ -29,4 +29,4 @@ Diagram:
 https://dbdiagram.io/d/60926e79b29a09603d1377d6
 
 ### Screenshots
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](server/public/images/screen shots/intro.png)
