@@ -29,4 +29,4 @@ Diagram:
 https://dbdiagram.io/d/60926e79b29a09603d1377d6
 
 ### Screenshots
-![login](server/public/images/screen shot/intro.png)
+![login](server/public/images/screen shots/intro.png?raw=true)
