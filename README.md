@@ -27,7 +27,37 @@ As a user, I want to open the app and be able to login as either: a master admin
 
 Diagram:
 https://dbdiagram.io/d/60926e79b29a09603d1377d6
+<<<<<<< HEAD
 
 ### Sreen Shots
 Login page
 ![Login](server/public/images/screen shots/intro.png)
+||||||| 3e224e0
+=======
+
+### Screenshots
+Login
+![Login screen](server/public/images/screen%20shots/intro.png?raw=true)
+
+Homepage
+!['Homepage'](server/public/images/screen%20shots/home.png?raw=true)
+
+View all regions
+![All regions](server/public/images/screen%20shots/view%20all.png?raw=true)
+
+Search
+![Search](server/public/images/screen%20shots/search1.png?raw=true)
+![Search](server/public/images/screen%20shots/search2.png?raw=true)
+
+House page(general user)
+![House view general](server/public/images/screen%20shots/house%20view%20-%20general.png?raw=true)
+
+House page(admin user)
+![House view admin](server/public/images/screen%20shots/house%20vew%20-%20admin.png?raw=true)
+
+Add house(admin only)
+![Add house](server/public/images/screen%20shots/add%20house.png?raw=true)
+
+Edit house(admin only)
+![Edit house]![Search](server/public/images/screen%20shots/edit%20house.png?raw=true)
+>>>>>>> ae3c905d75d650dcc9d160ee7f2443586cb92e12
