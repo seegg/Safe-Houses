@@ -46,4 +46,10 @@ House page(general user)
 ![House view general](server/public/images/screen%20shots/house%20view%20-%20general.png?raw=true)
 
 House page(admin user)
-![House view admin](server/public/images/screen%20shots/house%20view%20-%20admin.png?raw=true)
+![House view admin](server/public/images/screen%20shots/house%20vew%20-%20admin.png?raw=true)
+
+Add house(admin only)
+![Add house](server/public/images/screen%20shots/add%20house.png?raw=true)
+
+Edit house(admin only)
+![Edit house]![Search](server/public/images/screen%20shots/edit%20house.png?raw=true)
