@@ -43,4 +43,7 @@ Search
 ![Search](server/public/images/screen%20shots/search2.png?raw=true)
 
 House view(general user)
-![House view general](server/public/images/screen%20shots/hosue%20view%20-%20general.png?raw=true)
+![House view general](server/public/images/screen%20shots/house%20view%20-%20general.png?raw=true)
+
+House view(admin user)
+![House view general](server/public/images/screen%20shots/house%20view%20-%20admin.png?raw=true)
