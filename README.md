@@ -31,3 +31,16 @@ https://dbdiagram.io/d/60926e79b29a09603d1377d6
 ### Screenshots
 Login
 ![Login screen](server/public/images/screen%20shots/intro.png?raw=true)
+
+Homepage
+!['Homepage'](server/public/images/screen%20shots/home.png?raw=true)
+
+View all regions
+![All regions](server/public/images/screen%20shots/view%20all.png?raw=true)
+
+Search
+![Search](server/public/images/screen%20shots/search1.png?raw=true)
+![Search](server/public/images/screen%20shots/search2.png?raw=true)
+
+House view(general user)
+![House view general](server/public/images/screen%20shots/hosue%20view%20-%20general.png?raw=true)
