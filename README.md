@@ -27,13 +27,6 @@ As a user, I want to open the app and be able to login as either: a master admin
 
 Diagram:
 https://dbdiagram.io/d/60926e79b29a09603d1377d6
-<<<<<<< HEAD
-
-### Sreen Shots
-Login page
-![Login](server/public/images/screen shots/intro.png)
-||||||| 3e224e0
-=======
 
 ### Screenshots
 Login
@@ -60,5 +53,4 @@ Add house(admin only)
 ![Add house](server/public/images/screen%20shots/add%20house.png?raw=true)
 
 Edit house(admin only)
-![Edit house]![Search](server/public/images/screen%20shots/edit%20house.png?raw=true)
->>>>>>> ae3c905d75d650dcc9d160ee7f2443586cb92e12
+![Edit house](server/public/images/screen%20shots/edit%20house.png?raw=true)
